@@ -28,8 +28,8 @@ function banner(){
 }
 
 function connect(){
-    SSID="Rego_Wifi"
-    PASS="moongive723"
+    SSID=""
+    PASS=""
     echo "Bringing wlan0 up..."
     sudo ifconfig wlan0 up
     if [ $? -ne 0 ]; then
