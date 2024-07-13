@@ -24,7 +24,7 @@ function banner(){
     echo "   ▀▄▀ ▀▄ ▄▀   ▄▀▀▀▀▀▄   █         ▄▀▀▀▀▀▄      █▀▀▀   "
     echo "         ▀    █       █ █         █       █     ▐      "
     echo "              ▐       ▐ ▐         ▐       ▐            "
-    echo "Created By: Crashiz     ver 1.0                        "
+    echo "Created By: Crashi_z     ver 1.0                        "
 }
 
 function connect(){
